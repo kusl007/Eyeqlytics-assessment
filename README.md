@@ -31,24 +31,24 @@ A modern, responsive React web application that fetches and displays user data f
 ### Installation
 
 1. Clone the repository:
-\`\`\`bash
+```bash
 git clone <repository-url>
 cd user-directory
-\`\`\`
+```
 
 2. Install dependencies:
-\`\`\`bash
+```bash
 npm install
 # or
 yarn install
-\`\`\`
+```
 
 3. Run the development server:
-\`\`\`bash
+```bash
 npm run dev
 # or
 yarn dev
-\`\`\`
+```
 
 4. Open [http://localhost:5173](http://localhost:5173) in your browser.
 
